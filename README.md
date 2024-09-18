@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Salome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salome83Gitau&show_icons=true&theme=radical)
+![Salome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salome83Gitau&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Salome's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salome83Gitau&layout=compact&theme=radical)
 
